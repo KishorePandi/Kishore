@@ -5,4 +5,4 @@ if number == 0:
 elif number ==1:
     print(a,"is an odd number")
 else:
-    print("Error, Invalid input")
+    print("invalid")
